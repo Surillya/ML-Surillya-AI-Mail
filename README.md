@@ -1,8 +1,8 @@
 # ML Surillya AI Mail
 
 
-![License](https://img.shields.io/badge/License-Apache 2.0-blue.svg)
-![NoobLel](https://img.shields.io/badge/Knowledge required-Noob-red.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![NoobLel](https://img.shields.io/badge/Knowledge%20required-Noob-red.svg)
 
 This project aims on letting you dynamically generate full dead internet email inboxes using local AI (Ollama recommended), based on local data you provide.
 
